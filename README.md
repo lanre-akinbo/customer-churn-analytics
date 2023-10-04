@@ -1,7 +1,5 @@
 # Customer Churn Analytics
 
-![Project Image](churn.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
@@ -23,8 +21,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/lanre-akinbo/customer-churn-analytics.git
+   cd customer-churn-analytics
    ```
 
 2. Install the required dependencies:
