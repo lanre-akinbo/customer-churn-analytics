@@ -1,4 +1,3 @@
-```markdown
 # Customer Churn Analytics
 
 ![Project Image](churn.png)
@@ -51,5 +50,3 @@ If you'd like to contribute to this project, please follow these guidelines:
 2. Create a new branch.
 3. Make your changes and commit them.
 4. Submit a pull request with a clear description of your changes.
-
-```
