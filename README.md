@@ -1,12 +1,5 @@
 # Customer Churn Analytics
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Data Sources](#data-sources)
-- [Contributing](#contributing)
-
 ## Introduction
 
 This repository contains a customer churn prediction project using logistic regression, leveraging data science techniques to enhance customer retention in the telecommunications industry.
@@ -48,3 +41,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 2. Create a new branch.
 3. Make your changes and commit them.
 4. Submit a pull request with a clear description of your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
